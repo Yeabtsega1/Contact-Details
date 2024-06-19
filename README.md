@@ -8,7 +8,7 @@ A Links website to get all my Social Media links at one place | Made with Nextjs
 
 ## Demo
 
-https://Yeabtsega1.github.io/Contact Details/
+https://yeab-contact-details.vercel.app/
 
 ## Tech Stack
 
