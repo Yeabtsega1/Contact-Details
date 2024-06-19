@@ -4,7 +4,7 @@ A Links website to get all my Social Media links at one place | Made with Nextjs
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Yeabtsega1/links/main/public/website.png)
+![App Screenshot](./website.png)
 
 ## Demo
 
